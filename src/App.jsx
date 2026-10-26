@@ -1,7 +1,11 @@
 function App() {
   return (
     <>
-      <h1 className="text-3xl font-bold text-y">Creative Technologist</h1>
+      <section>
+        <h1 className="text-3xl font-bold ">Unyime Kona.</h1>
+        <h1 className="text-3xl font-bold ">Frontend Development.</h1>
+        <h1 className="text-3xl font-bold ">Motion & Interaction Design</h1>
+      </section>
     </>
   );
 }
